@@ -1,5 +1,3 @@
-[Patika.dev Profilim](https://app.patika.dev/sonkayyum) 
-
 -- 1)film tablosunda bulunan replacement_cost sütununda bulunan birbirinden farklı değerleri sıralayınız.
 SELECT DISTINCT replacement_cost FROM film;
 

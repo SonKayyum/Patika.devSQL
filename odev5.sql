@@ -1,5 +1,3 @@
-[Patika.dev Profilim](https://app.patika.dev/sonkayyum) 
-
 -- 1)film tablosunda bulunan ve film ismi (title) 'n' karakteri ile biten en uzun (length) 5 filmi sıralayınız.
 SELECT title, length FROM film
 WHERE title LIKE '%n'

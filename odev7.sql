@@ -1,5 +1,3 @@
-[Patika.dev Profilim](https://app.patika.dev/sonkayyum) 
-
 -- 1)film tablosunda bulunan filmleri rating değerlerine göre gruplayınız.
 SELECT rating, COUNT(*) FROM film
 GROUP BY rating;
