@@ -1,0 +1,2 @@
+# Patika.devSQL
+SQL ödevleri
